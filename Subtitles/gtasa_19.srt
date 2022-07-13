@@ -1,0 +1,20 @@
+1
+00:00:00,150 --> 00:00:01,780
+Zero: At last - it works!
+
+2
+00:00:01,800 --> 00:00:02,430
+Kendl: What works?
+
+3
+00:00:02,442 --> 00:00:06,172
+Zero: [male_dub]
+
+4
+00:00:06,605 --> 00:00:09,040
+CJ: I don't know what he just said, but it's on!
+
+5
+00:00:09,040 --> 00:00:09,410
+Zero: Yes!
+
