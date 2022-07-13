@@ -8,6 +8,7 @@ Supported games are [What the Dub?!](https://store.steampowered.com/app/1495860/
 + And a bunch of new SFX to use in your dubs!
 
 > ⚠ Clips in this pack contain strong language.
+
 > ⚠ Some clips may contain spoilers. You've been warned.
 
 ## How to install
@@ -96,7 +97,8 @@ Any way you'd like to:
 	- You may add variety to your sounds: game treats files like *"Fart 1.wav"* and *"Fart 2.wav"* as variations of same sound. Add a number at the end of file name to make that happen.
   - the *UiClips* and *TheEndClips* folders are not to be modified.
 - if you don't (or can't) - do not worry! Just contact me:
-    - pm me on discord (g7eternal#8037) or [twitch](https://twitch.tv/g7eternal). Or elsewhere, if you have the contact.
+    - Discord: g7eternal#8037
+    - Twitch: [g7eternal](https://twitch.tv/g7eternal)
 
 ## More packs
 If you are looking for more custom clips, check out these packs:
