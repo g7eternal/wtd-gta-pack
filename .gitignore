@@ -6,3 +6,4 @@ VideoClips/*.srt
 
 _installer-src/target
 _src/
+check-subtitles.js

@@ -14,15 +14,15 @@ Kendl: [female_dub]
 00:00:03,905 --> 00:00:04,640
 Cesar: Who said this to you?
 
-5:
+5
 00:00:04,640 --> 00:00:06,180
 Kendl: The construction workers up that hill
 
-6:
+6
 00:00:06,180 --> 00:00:06,875
 Cesar: Imma fuck them up.
 
-7:
+7
 00:00:06,875 --> 00:00:07,780
 CJ: Nah, hold up.
 
