@@ -12,7 +12,20 @@ Supported games are [What the Dub?!](https://store.steampowered.com/app/1495860/
 > ⚠ Some clips may contain spoilers. You've been warned.
 
 ## How to install
-### Automatic installation
+### From Steam Workshop (WTD only)
+Since the introduction of "What The Dub?!" support of Steam Workshop, you can now subscribe to this clip pack - and Steam will take care of installing the clips for you!
+
+Visit [pack's Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3050313116) to subscribe.
+
+#### Benefits:
++ you can mix various packs in game, toggling them on and off
++ you can use Twitch chat integration to allow your chat to choose next clip
+
+#### Some features will be *unavailable*:
++ custom sound effects are not supported by Workshop
+
+Therefore the *recommended* installation way is by using the *autoinstaller*. Read the next section for info.
+### Automatic installation (recommended)
 Get the [auto-installer](https://github.com/g7eternal/wtd-gta-pack/releases/latest/download/wtd-gta-pack-auto.exe) - it will take care of finding your game and importing all the new clips! The whole process is just a few clicks!
 #### Benefits of auto-installer:
 + downloads the latest version of the pack
@@ -49,7 +62,9 @@ You may receive a warning about running a file from untrusted source when launch
 > Side note: in RiffTrax, when using the Remote Play feature, all the clients must have this clip pack installed. Otherwise only the host will be able to see the videos.
 
 ## How to remove pack
-The easiest way: delete the game, then reinstall it.
+If you installed the pack using Workshop, you will have to unsubscribe - and Steam will automatically remove custom clips from your device.
+
+Otherwise, the easiest way: delete the game, then reinstall it.
 
 The proper way:
 
